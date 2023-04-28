@@ -6,7 +6,7 @@ export default function Home() {
                 <a href="../" class="flex items-center mb-6 text-2xl font-semibold text-gray-900 dark:text-white">
                     <img class="w-32 mr-2" src="talentport-logo.png" alt="logo"/>  
                 </a>
-                <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">The sky isn't the limit either.</h1>
+                <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">The sky isn&apos;t the limit either.</h1>
                 <p class="mb-6 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">Talentport matches highly-motivated talents who wants to work remotely to overseas companies who are equally hungry for growth.</p>
                 <a href="https://talentport.com/apply?utm_source=null&utm_medium=null&utm_campaign=null" class="text-tp-primary dark:text-tp-primary hover:underline font-medium text-lg inline-flex items-center">Read more about Talentport
                     <svg aria-hidden="true" class="w-4 h-4 ml-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

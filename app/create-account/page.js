@@ -20,7 +20,7 @@ export default function CreateAccount() {
                                 <option>Instagram</option>
                                 <option>TikTok</option>
                                 <option>Twitter</option>
-                                <option>Talentport's Partner (Community/ Organization)</option>
+                                <option>Talentport&apos;s Partner (Community/ Organization)</option>
                                 <option>Indeed</option>
                                 <option>LinkedIn</option>
                                 <option>Grabjobs</option>

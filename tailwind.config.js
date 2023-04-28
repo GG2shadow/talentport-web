@@ -8,13 +8,16 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'body': ['Montserrat', 'sans-serif'],
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       colors: {
-        'talentport-primary': '#ff702b',
+        'tp-primary': '#ff702b',
       }
     },
   },

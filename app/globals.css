@@ -25,3 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+#learn-about-tp {
+  margin-top: 0;
+}

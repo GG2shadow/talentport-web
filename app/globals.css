@@ -29,3 +29,11 @@ body {
 #learn-about-tp {
   margin-top: 0;
 }
+
+#nationality, #c-l-education-level, #graduation-status, #graduation-date, #expected-start-date, #cv-resume, #cv-resume-link, #learn-about-tp, #jobsearch-activity, #notice-period {
+  margin-top: 0.5rem; /* 8px */
+}
+
+.checkbox-vertical-list {
+  margin-top: 0.5rem !important; /* 8px */
+}
